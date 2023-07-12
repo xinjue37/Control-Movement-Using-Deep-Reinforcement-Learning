@@ -6,6 +6,7 @@ Author: Ng Zheng Jue, Ng Rui Qi
 * This repository consists of
   - Jupyter Notebook file to extract the environment, process the environment, build the deep learning model, control movement using deep learning model
   - Sample map: 'data_1.txt'
+  - One of the trained model (due to the storage limit, it is not possible to upload all the model): 'CNN40000.pt'
 
 ## Environment
 Given “data_1.txt” as one of a sample map, where the starting point is marked with 'S', the obstacles are marked with 'W', the passable route is marked with '.', and the targets are marked with 'T'. *The agent has a limited view at only 21x21*.
