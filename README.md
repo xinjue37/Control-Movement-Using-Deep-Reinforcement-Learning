@@ -2,7 +2,7 @@
 Author: Ng Zheng Jue, Ng Rui Qi
 
 * This is a project developed in undergraduate Year 2 - Semester 2
-* This repository consists of solving a control movement problem using Deep Reinforcement Learning. The deep learning architecture used in CNN as we are dealing with the map
+* This repository consists of solving a control movement problem using Deep Reinforcement Learning. The deep learning architecture used is CNN as we are dealing with the map
 * This repository consists of
   - Jupyter Notebook file to extract the environment, process the environment, build the deep learning model, control movement using deep learning model
   - Sample map: 'data_1.txt'
