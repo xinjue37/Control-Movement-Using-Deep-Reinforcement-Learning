@@ -1,5 +1,5 @@
 # Undergraduate-Y2S2-Control_Movement_Using_Deep_Reinforcement_Learning
-Author: Ng Zheng Jue, Ng Rui Qi
+Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.com/Ruiqi2002)
 
 * This is a project developed in undergraduate Year 2 - Semester 2
 * This repository consists of solving a control movement problem using Deep Reinforcement Learning. The deep learning architecture used is CNN as we are dealing with the map
