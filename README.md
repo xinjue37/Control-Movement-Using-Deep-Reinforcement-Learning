@@ -1,4 +1,4 @@
-# Undergraduate-Y2S2-Control_Movement_Using_Deep_Reinforcement_Learning
+# Control Movement Using Deep Reinforcement Learning
 Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.com/Ruiqi2002)
 
 * This is a project developed in undergraduate Year 2 - Semester 2
