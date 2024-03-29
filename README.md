@@ -18,6 +18,7 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.
 ## State, Action and Reward
 * To formulate the problem as deep reinforcement learning problem, we need to define the state, action and reward:
   * State: 25x25 view from the current position where the extra view is filled by unknown if the agent haven't pass through that location
+  * Reward: if the agent reaches the target, add 10 rewards. However, the reward will keep decaying when time go by when the agent is does not reach the target.
   * Action: The agent can move in 8 direction
 
 <div align="center">
@@ -35,7 +36,6 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.
 
 </div>
 
-    * Reward: if the agent reaches the target, add 10 rewards. However, the reward will keep decaying when time go by when the agent is does not reach the target.
 * The detail explanation of the code can be found in the [Report.pdf](https://github.com/xinjue37/Control-Movement-Using-Deep-Reinforcement-Learning/blob/main/Report.pdf)
     
 
