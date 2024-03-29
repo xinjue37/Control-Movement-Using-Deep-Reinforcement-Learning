@@ -15,6 +15,7 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.
   * Action: The agent can move in 8 direction
 
 <center>
+ 
 |Index|Action|
 |:-:|:-:|
 |0|Right|
@@ -25,6 +26,7 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.
 |5|Left Down|
 |6|Down|
 |7|Right Down|
+
 </center>
 
   * Reward: if the agent reaches the target, add 10 rewards. However, the reward will keep decaying when time go by when the agent is does not reach the target.
