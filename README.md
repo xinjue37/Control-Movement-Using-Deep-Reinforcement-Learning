@@ -2,7 +2,10 @@
 Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.com/Ruiqi2002)
 
 * This is a project developed in undergraduate Year 2 - Semester 2
-* This repository consists of **solving a control movement problem using Deep Reinforcement Learning**. The deep learning architecture used is CNN as we are dealing with the map. 
+* This repository consists of **solving a control movement problem using Deep Reinforcement Learning**. The deep learning architecture used is CNN as we are dealing with the map. * This repository consists of
+  - Jupyter Notebook file to extract the environment, process the environment, build the deep learning model, control movement using deep learning model
+  - Sample map: 'data_1.txt'
+  - 3 trained model 'CNN40000.pt', CNN50000.pt, CNN60000.pt
 * One example of the environment map is at "[data_1.txt](https://github.com/xinjue37/Control-Movement-Using-Deep-Reinforcement-Learning/blob/main/data_1.txt)" where
   * The starting point is marked with 'S'
   * The obstacles are marked with 'W'
@@ -32,7 +35,4 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.
   * Reward: if the agent reaches the target, add 10 rewards. However, the reward will keep decaying when time go by when the agent is does not reach the target.
 * The detail explanation of the code can be found in the [Report.pdf](https://github.com/xinjue37/Control-Movement-Using-Deep-Reinforcement-Learning/blob/main/Report.pdf)
     
-* This repository consists of
-  - Jupyter Notebook file to extract the environment, process the environment, build the deep learning model, control movement using deep learning model
-  - Sample map: 'data_1.txt'
-  - 3 trained model 'CNN40000.pt', CNN50000.pt, CNN60000.pt
+
