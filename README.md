@@ -1,7 +1,7 @@
 # Control Movement Using Deep Reinforcement Learning
 Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.com/Ruiqi2002)
 
-* This is a project developed in undergraduate Year 2 - Semester 2
+* This is a project developed in undergraduate Year 2 - Semester 2 in the course (**Computer Vision and Robotics**).
 * This repository consists of **solving a control movement problem using Deep Reinforcement Learning**. The deep learning architecture used is CNN as we are dealing with the map. * This repository consists of
   - Jupyter Notebook file to extract the environment, process the environment, build the deep learning model, control movement using deep learning model
   - Sample map: 'data_1.txt'
