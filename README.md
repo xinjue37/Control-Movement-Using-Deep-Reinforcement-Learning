@@ -34,6 +34,7 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ng Rui Qi](https://github.
 |7|Right Down|
 
 </div>
+
   * Reward: if the agent reaches the target, add 10 rewards. However, the reward will keep decaying when time go by when the agent is does not reach the target.
 * The detail explanation of the code can be found in the [Report.pdf](https://github.com/xinjue37/Control-Movement-Using-Deep-Reinforcement-Learning/blob/main/Report.pdf)
     
